@@ -1,0 +1,16 @@
+{
+    "name": "pmgt",
+    "version": "1.0.0",
+    "description": "Perth Mint Gold Token (PMGT) Solidity contracts",
+    "main": "truffle-config.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/infinigold-pty-ltd/pmgt-contracts.git"
+    },
+    "author": "InfiniGold Pty Ltd (https://infinigold.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/infinigold-pty-ltd/pmgt-contracts/issues"
+    },
+    "homepage": "https://github.com/infinigold-pty-ltd/pmgt-contracts"
+}

@@ -1,0 +1,9 @@
+# Soldiity build files
+build/
+
+# Locally installed Node modules
+node_modules/
+
+# IDEA files
+.idea/
+*.iml
